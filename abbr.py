@@ -7,5 +7,5 @@ def abbr(phrase):
 
     return abbr
 
-phrase = "Dsdfsd sdf sdfsef"
+phrase = "otgijbmdifh fiudfv peu"
 print(abbr(phrase))
